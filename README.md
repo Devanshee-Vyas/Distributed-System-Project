@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Mental Wellness Assistant for Women
 
 An intelligent system that provides personalized mental wellness support through emotion detection and activity recommendations.
@@ -94,3 +95,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - GoEmotions dataset
 - EmotionStimulus dataset
 - Hugging Face Transformers library 
+=======
+# Distributed-System-Project
+>>>>>>> be5df9df1c60a0b774b943e9c6529541e767af41
